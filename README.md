@@ -1,2 +1,3 @@
 # aws-examples
-collection of examples used for aws cert
+collection of examples used for aws
+example scripts and other commands used.
